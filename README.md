@@ -38,6 +38,8 @@
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh2920&" alt="nitesh2920" /></p>  
 
 </br>
+</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <p>
 	&nbsp; <img style="margin-top:5px;" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=nitesh2920&show_icons=true&locale=en&layout=compact" alt="nitesh2920" /></p>
 
