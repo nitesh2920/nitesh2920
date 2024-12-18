@@ -39,7 +39,7 @@
 
 </br>
  <p align="center">
-	&nbsp; <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=nitesh2920&show_icons=true&locale=en&layout=compact" alt="nitesh2920" /></p>
+	&nbsp; <img style="margin-top:5px" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=nitesh2920&show_icons=true&locale=en&layout=compact" alt="nitesh2920" /></p>
 
 
 
