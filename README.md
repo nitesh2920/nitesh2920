@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **niteshtiwari0234@gmail.com**
 
-- ⚡ Fun fact **I think I know JS**
+<!-- - ⚡ Fun fact **I think I know JS**  -->
 
 ## 🌐 Connect with me:
 <p align="left">
